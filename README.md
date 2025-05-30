@@ -2,7 +2,7 @@
 CIVL4220FinalProject
 # LSTM and SARIMA Hybrid Model for Hong Kong Electricity Consumption Forecasting
 
-This repository contains the supplementary code for the report titled **"Exploring a Hybrid Model Combining LSTM and SARIMA for Forecasting Electricity Consumption in Hong Kong"**, submitted as part of the CIVL 4220 course at The Hong Kong Polytechnic University. The code implements a hybrid forecasting model that combines Long Short-Term Memory (LSTM) and Seasonal AutoRegressive Integrated Moving Average (SARIMA) techniques to predict electricity consumption across various categories in Hong Kong using monthly data from 1979.
+This repository contains the supplementary code for the report **"Exploring a Hybrid Model Combining LSTM and SARIMA for Forecasting Electricity Consumption in Hong Kong"**. The code implements a hybrid forecasting model that combines Long Short-Term Memory (LSTM) and Seasonal AutoRegressive Integrated Moving Average (SARIMA) techniques to predict electricity consumption across various categories in Hong Kong using monthly data from 1979.
 
 ## Overview
 
