@@ -30,7 +30,3 @@ To run the code, ensure you have the following dependencies installed:
   - `statsmodels` (for SARIMA modeling)
   - `scikit-learn` (for preprocessing and metrics)
   - `tensorflow` or `keras` (for LSTM modeling)
-
-Install the required packages using pip:
-```bash
-pip install pandas numpy matplotlib statsmodels scikit-learn tensorflow
